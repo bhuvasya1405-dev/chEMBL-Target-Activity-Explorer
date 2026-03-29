@@ -51,11 +51,9 @@ http://localhost:3000
 * Select activity type (optional)
 * Click search
 * View results
+* <img width="1871" height="895" alt="Screenshot 2026-03-28 223608" src="https://github.com/user-attachments/assets/45057320-7c60-4509-bcef-5f631b48d431" />
+
 
 ## Author
 
 BHUVASYA .G
-=======
-# chEMBL-Target-Activity-Explorer
-This is a full-stack web application that fetches bioactivity data from the ChEMBL API and displays it in a simple user interface.
->>>>>>> 91d3b843aac3688bdeeceab7c2c98c5dd0eb9794

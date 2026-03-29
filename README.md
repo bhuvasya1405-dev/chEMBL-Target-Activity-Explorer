@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ChemBL Activity Explorer
 
 ## Overview
@@ -54,3 +55,7 @@ http://localhost:3000
 ## Author
 
 BHUVASYA .G
+=======
+# chEMBL-Target-Activity-Explorer
+This is a full-stack web application that fetches bioactivity data from the ChEMBL API and displays it in a simple user interface.
+>>>>>>> 91d3b843aac3688bdeeceab7c2c98c5dd0eb9794
